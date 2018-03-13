@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <p id="demo">scale</p>
+    <p id="pers">s</p>
+    <p id="type">s</p>
+    <p id="function">s</p>
+    <p id="celc">s</p>
+    <p id="person2">s</p>
+    <script>
+        var x = 5;
+        var y = 5;
+        var z = 6;
+        var cars = ["ololo", "zhigul", "merc", "kolodec"]
+        var person = {
+            firstname: "Algis",
+            lastname: "Zhukauskas",
+            age: 21,
+            eyecolor: "brown",
+            hair: "black",
+            height: "tall",
+            humor: "troll",
+        };
+        var x = toCelsius(77);
+        var text = "The temperature is " + x + " Celsius";
+
+        function myFunction(p1, p2) {
+            return p1 * p2;
+        }
+
+        function toCelsius(fahrenheit) {
+            return (5 / 9) * (fahrenheit - 32);
+        }
+        var person2 = {
+            firstName: "John",
+            lastName: "Doe",
+            id: 5566,
+            fullName: function() {
+                return this.firstName + " " + this.lastName;
+            }
+        };
+
+        var penis = {
+            razmer: "eldak",
+            chei: "moi",
+            cm1: 140,
+            ktoDikiy: "eto ya",
+            razmerPenisa: function() {
+                return this.chei + " " + this.razmer + " " + this.cm1 + " cm!!!!!!";
+            }
+        };
+        //document.getElementById("demo").innerHTML = (x == y) + "<br>" + (x == z);
+        //document.getElementById("demo").innerHTML = cars[2];
+        document.getElementById("pers").innerHTML = person.firstname + " " + person.lastname + " is " +
+            person.age + " old, " + person.hair + " " + person.height + " " + person.humor;
+        document.getElementById("type").innerHTML = typeof "algis" + 15;
+        //document.getElementById("function").innerHTML = myfunction(5, 6);
+        document.getElementById("celc").innerHTML = text;
+        document.getElementById("demo").innerHTML = penis.razmerPenisa();
+    </script>
+</body>
+
+</html>

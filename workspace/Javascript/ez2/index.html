@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="../scripts/myscript.js"></script>
+</head>
+
+<body>
+    <p id="change">CHANGE THE PULP</p>
+
+    <button onclick="document.getElementById('myimage').src='img/pic_bulbon.gif'">ON</button>
+    <img id="myimage" src="img/pic_bulboff.gif" style="width:100px">
+    <button onclick="document.getElementById('myimage').src='img/pic_bulboff.gif'">OFF</button>
+
+    <p><button onclick="document.getElementById('change').style.fontSize = '35px'">Change Font</button></p>
+    <p><button onclick="document.getElementById('change').style.display = 'none'">Hide text</button></p>
+    <p><button onclick="document.getElementById('change').style.display = 'block'">Show text</button></p>
+    <p><button onclick="myFunction()">Change text</button></p>
+</body>
+
+</html>

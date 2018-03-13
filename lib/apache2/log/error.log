@@ -1,0 +1,53 @@
+[Tue Oct 24 17:31:14.244533 2017] [mpm_prefork:notice] [pid 3126] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Oct 24 17:31:14.244615 2017] [core:notice] [pid 3126] AH00094: Command line: 'apache2'
+[Tue Oct 24 17:31:16.492366 2017] [core:info] [pid 3133] [client 10.240.0.189:36060] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://praise-the-sun-carvz0r.c9users.io/mendeleev/index.html
+[Mon Nov 13 13:51:56.605450 2017] [core:warn] [pid 2597] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 13 13:51:56.611183 2017] [mpm_prefork:notice] [pid 2597] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Mon Nov 13 13:51:56.611219 2017] [core:notice] [pid 2597] AH00094: Command line: 'apache2'
+[Mon Nov 13 13:52:03.222370 2017] [core:info] [pid 2610] [client 10.240.1.67:57284] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://praise-the-sun-carvz0r.c9users.io/Javascript/ez5/index.html
+[Mon Nov 13 13:52:10.197517 2017] [mpm_prefork:notice] [pid 2597] AH00169: caught SIGTERM, shutting down
+[Tue Nov 21 19:03:25.596889 2017] [mpm_prefork:notice] [pid 2926] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Nov 21 19:03:25.599616 2017] [core:notice] [pid 2926] AH00094: Command line: 'apache2'
+[Tue Nov 21 19:03:27.444899 2017] [core:info] [pid 2939] [client 10.240.1.16:49674] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://praise-the-sun-carvz0r.c9users.io/Javascript/ez5/index.html
+[Tue Nov 21 19:03:37.614434 2017] [mpm_prefork:notice] [pid 2926] AH00169: caught SIGTERM, shutting down
+[Tue Nov 21 20:46:13.824483 2017] [mpm_prefork:notice] [pid 3587] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Nov 21 20:46:13.825545 2017] [core:notice] [pid 3587] AH00094: Command line: 'apache2'
+[Tue Nov 21 20:46:16.731654 2017] [core:info] [pid 3596] [client 10.240.1.15:39072] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 20:46:21.938082 2017] [core:info] [pid 3598] [client 10.240.1.16:50244] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 20:46:47.425768 2017] [core:info] [pid 3596] [client 10.240.1.16:50680] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 20:48:25.576370 2017] [core:info] [pid 3594] [client 10.240.0.41:39862] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 20:48:38.881619 2017] [core:info] [pid 3597] [client 10.240.1.15:42308] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 20:52:44.036823 2017] [core:info] [pid 3595] [client 10.240.1.16:55596] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 20:54:15.729305 2017] [core:info] [pid 3598] [client 10.240.1.8:32862] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 20:54:22.765326 2017] [core:info] [pid 3596] [client 10.240.0.5:36450] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 20:58:41.691853 2017] [core:info] [pid 3594] [client 10.240.0.5:39290] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 20:59:14.795897 2017] [core:info] [pid 3597] [client 10.240.1.8:37612] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 20:59:29.769270 2017] [core:info] [pid 3595] [client 10.240.1.18:41720] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 21:01:08.882879 2017] [core:info] [pid 3598] [client 10.240.0.213:34124] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 21:01:22.819469 2017] [core:info] [pid 3596] [client 10.240.1.50:44308] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 21:01:29.114487 2017] [core:info] [pid 3594] [client 10.240.0.213:34526] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 21:03:59.409690 2017] [core:info] [pid 3597] [client 10.240.0.41:50898] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 21:06:34.914460 2017] [core:info] [pid 3597] [client 10.240.0.213:40422] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 21:09:58.054319 2017] [core:info] [pid 3595] [client 10.240.0.213:44380] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 21:10:24.410538 2017] [core:info] [pid 3598] [client 10.240.1.16:37928] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 21:13:05.064126 2017] [core:info] [pid 3596] [client 10.240.0.161:36292] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/css/img/reactor_bg_middle.jpg, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 21:14:55.521182 2017] [core:info] [pid 3598] [client 10.240.1.18:53084] AH00128: File does not exist: /home/ubuntu/workspace/joyreactor/img/icon_home.pn, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/css/main.css
+[Tue Nov 21 22:37:19.003157 2017] [core:info] [pid 3594] [client 10.240.0.227:45912] AH00128: File does not exist: /home/ubuntu/workspace/search, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/index.html
+[Tue Nov 21 22:40:30.942980 2017] [core:info] [pid 3598] [client 10.240.0.227:47796] AH00128: File does not exist: /home/ubuntu/workspace/search, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/index.html
+[Tue Nov 21 22:41:01.436932 2017] [core:info] [pid 3594] [client 10.240.0.213:33074] AH00128: File does not exist: /home/ubuntu/workspace/search, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/index.html
+[Tue Nov 21 22:41:12.534277 2017] [core:info] [pid 3598] [client 10.240.0.227:48152] AH00128: File does not exist: /home/ubuntu/workspace/search, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/index.html
+[Tue Nov 21 22:42:44.027988 2017] [core:info] [pid 3594] [client 10.240.0.213:34290] AH00128: File does not exist: /home/ubuntu/workspace/search, referer: https://praise-the-sun-carvz0r.c9users.io/joyreactor/index.html
+[Tue Dec 26 03:02:35.684196 2017] [core:warn] [pid 2718] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 26 03:02:35.688930 2017] [mpm_prefork:notice] [pid 2718] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Dec 26 03:02:35.688982 2017] [core:notice] [pid 2718] AH00094: Command line: 'apache2'
+[Tue Dec 26 03:02:38.402796 2017] [core:info] [pid 2745] [client 10.240.0.211:49770] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://praise-the-sun-carvz0r.c9users.io/Transform/index.html
+[Tue Dec 26 03:30:15.395115 2017] [mpm_prefork:notice] [pid 2718] AH00169: caught SIGTERM, shutting down
+[Tue Dec 26 03:30:17.347924 2017] [mpm_prefork:notice] [pid 3574] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Dec 26 03:30:17.348020 2017] [core:notice] [pid 3574] AH00094: Command line: 'apache2'
+[Tue Dec 26 03:39:47.923335 2017] [mpm_prefork:notice] [pid 3574] AH00169: caught SIGTERM, shutting down
+[Thu Jan 04 03:43:40.836180 2018] [mpm_prefork:notice] [pid 2186] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Jan 04 03:43:40.836267 2018] [core:notice] [pid 2186] AH00094: Command line: 'apache2'
+[Thu Jan 04 03:43:43.108433 2018] [core:info] [pid 2203] [client 10.240.0.158:51966] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://praise-the-sun-carvz0r.c9users.io/adaptive/index.html
+[Thu Jan 04 03:46:00.429547 2018] [mpm_prefork:notice] [pid 2186] AH00169: caught SIGTERM, shutting down
+[Thu Jan 04 03:46:09.351729 2018] [mpm_prefork:notice] [pid 2842] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Jan 04 03:46:09.351825 2018] [core:notice] [pid 2842] AH00094: Command line: 'apache2'

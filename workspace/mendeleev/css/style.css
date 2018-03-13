@@ -1,0 +1,146 @@
+body {
+    margin:0 auto;
+    padding:0 auto;
+}
+
+#wrapper_all{
+    background:linear-gradient(red,blue,green,yellow,orange);
+    width:90%;
+    display: block;
+}
+
+#wrapper{
+    background-color:green;
+    line-height: 0;
+}
+
+header {
+    text-align:center;
+}
+
+h2{
+    font-size:20px;
+    text-align:center;
+}
+
+.description{
+    text-align:center;
+}
+#H {
+    width:50px;
+    height:50px;
+    background-color:yellow;
+    border:1px solid;
+    font-size:10px;
+    padding:10px;
+    display:inline-block;
+}
+
+#He {
+    width:50px;
+    height:50px;
+    background-color:yellow;
+    border:1px solid;
+    font-size:10px;
+    padding:10px;
+    display:inline-block;
+}
+
+#Li {
+    width:50px;
+    height:50px;
+    background-color:yellow;
+    border:1px solid;
+    font-size:10px;
+    padding:10px;
+    display:inline-block;
+    float:left;
+}
+
+#Be {
+    width:50px;
+    height:50px;
+    background-color:yellow;
+    border:1px solid;
+    font-size:10px;
+    padding:10px;
+    display:inline-block;
+    float:left;
+}
+
+#B {
+    width:50px;
+    height:50px;
+    background-color:yellow;
+    border:1px solid;
+    font-size:10px;
+    padding:10px;
+    display:inline-block;
+    float:left;
+}
+
+#C {
+    width:50px;
+    height:50px;
+    background-color:yellow;
+    border:1px solid;
+    font-size:10px;
+    padding:10px;
+    display:inline-block;
+    float:left;
+}
+
+#N {
+    width:50px;
+    height:50px;
+    background-color:yellow;
+    border:1px solid;
+    font-size:10px;
+    padding:10px;
+    display:inline-block;
+    float:left;
+}
+
+#O {
+    width:50px;
+    height:50px;
+    background-color:yellow;
+    border:1px solid;
+    font-size:10px;
+    padding:10px;
+    display:inline-block;
+    float:left;
+}
+
+#F {
+    width:50px;
+    height:50px;
+    background-color:yellow;
+    border:1px solid;
+    font-size:10px;
+    padding:10px;
+    display:inline-block;
+    float:left;
+}
+
+#Ne {
+    width:50px;
+    height:50px;
+    background-color:yellow;
+    border:1px solid;
+    font-size:10px;
+    padding:10px;
+    display:inline-block;
+    float:left;
+}
+
+#Na {
+    width:50px;
+    height:50px;
+    background-color:yellow;
+    border:1px solid;
+    font-size:10px;
+    padding:10px;
+    display:inline-block;
+    float:left;
+}
